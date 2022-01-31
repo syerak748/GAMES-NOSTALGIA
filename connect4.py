@@ -1,10 +1,10 @@
 import time    
 
-print("*"*140)
-print("CONNECT 4 Pog".center(140))
-print("Instructions::".center(140))
-print("Try to build a row of four checkers while keeping your opponent from doing the same".center(140))
-print("*"*140)
+print("*"*100)
+print("CONNECT 4 Pog".center(100))
+print("Instructions::".center(100))
+print("Try to build a row of four checkers while keeping your opponent from doing the same".center(100))
+print("*"*100)
 
 grid1 = [0,0,0,0] # bottom row
 grid2 = [0,0,0,0]
