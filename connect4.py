@@ -1,9 +1,10 @@
 import time    
 
-print("Connect 4 using python by Kshitij Gupta")
-print("Instructions::")
-print("Try to build a row of four checkers while keeping your opponent from doing the same")
-
+print("*"*140)
+print("CONNECT 4 Pog".centre(140))
+print("Instructions::".cente(140))
+print("Try to build a row of four checkers while keeping your opponent from doing the same".centre(140))
+print("*"*140)
 
 grid1 = [0,0,0,0] # bottom row
 grid2 = [0,0,0,0]
