@@ -1,6 +1,6 @@
 import time    
 
-print("Connect 4 using python by Samyak Savi and Kshitij Gupta")
+print("Connect 4 using python by Kshitij Gupta")
 print("Instructions::")
 print("Try to build a row of four checkers while keeping your opponent from doing the same")
 
